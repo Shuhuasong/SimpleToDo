@@ -26,12 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= "https://recordit.co/dMTAUloT0f.gif" title= "Video Walkthrough" alt= "Video Walkthrough" width=300> 
-<img src= "https://recordit.co/l01UThvKco.gif" title= "Video Walkthrough" alt= "Video Walkthrough" width=300> 
+<img src= "https://recordit.co/dMTAUloT0f.gif" title= "Video Walkthrough" alt= "Video Walkthrough" width=200> 
+<img src= "https://recordit.co/l01UThvKco.gif" title= "Video Walkthrough" alt= "Video Walkthrough" width=200> 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
