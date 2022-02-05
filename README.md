@@ -20,13 +20,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src= "https://recordit.co/dMTAUloT0f.gif" title= "Video Walkthrough" alt= "Video Walkthrough" width=200> 
+<img src= "https://recordit.co/KHFYT3IK7R.gif" title= "Video Walkthrough" alt= "Video Walkthrough" width=200> 
 <img src= "https://recordit.co/l01UThvKco.gif" title= "Video Walkthrough" alt= "Video Walkthrough" width=200> 
 
 
