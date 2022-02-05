@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
         //implement the interface from adapter
         val onLongClickLinear = object : TaskItemAdapter.onLongClickListener {
             override fun onItemLongClicked(position: Int) {
